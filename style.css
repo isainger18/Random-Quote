@@ -1,0 +1,27 @@
+.container{
+    height: 100vh;
+}
+.square{
+    display: flex;
+    width: 40%;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid;
+    background-color: #b5aeab;
+}
+#imgquote{
+    width: 20%;
+    height: 100px;
+    
+}
+.randomeQuote{
+    width: 75%;
+    padding-top: 30px;
+    padding-left: 20px;
+    
+}
+.btnquote{
+    width: 30%;
+}
